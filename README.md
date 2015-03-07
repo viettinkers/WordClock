@@ -1,2 +1,2 @@
 # WordClock
-Powering word lock DIY projects
+Powering word clock DIY projects
