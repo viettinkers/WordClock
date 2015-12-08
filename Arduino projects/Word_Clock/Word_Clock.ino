@@ -40,7 +40,7 @@ bool hPM;
 bool century = false;
 
 
-Word nowWords[12];
+Word nowWords[20];
 uint8_t currentIndex = 0;
 
 Adafruit_NeoMatrix matrix = Adafruit_NeoMatrix(WIDTH, HEIGHT, PIN,
